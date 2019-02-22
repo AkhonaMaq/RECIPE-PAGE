@@ -1,0 +1,105 @@
+
+h1 {color: rgb(49, 48, 48);
+    font-family: 'Quicksand', sans-serif;
+     margin: auto;
+     }
+
+     h2 {color: rgb(49, 48, 48);
+    font-family: 'Quicksand', sans-serif;
+    margin: auto;
+}
+
+
+h3 {color: rgb(49, 48, 48);
+    font-family: 'Quicksand', sans-serif;
+    margin: auto;
+}
+
+
+
+h4 {color: rgb(49, 48, 48);
+    font-family: 'Quicksand', sans-serif;
+    margin: auto;
+}
+
+h5 {
+    color: rgb(49, 48, 48);
+    font-family: 'Quicksand', sans-serif;
+    margin: auto;
+}
+
+p {color: rgb(49, 48, 48);
+    font-family: 'Quicksand', sans-serif;
+    margin: auto;
+
+}
+#mainbox {width: 90%;
+                color: black}
+#desc {  
+    font-family: 'Quicksand', sans-serif; 
+    display: inline-block;
+    float: right;
+    width: 300px;
+    border: 1px solid;
+    margin-left: 10em;
+}
+
+
+#ingre {
+    display: inline-block;
+    font-family: 'Quicksand', sans-serif;
+    margin: 1px;
+    width: 300px;
+}
+
+#inst {
+    font-family: 'Quicksand', sans-serif;
+    margin: 1px;
+    width: 300px;
+}
+#boo {
+        border-style: solid;
+       
+}
+
+#image { 
+    display: inline-block;
+    height: auto;
+    width: 300px;
+    
+}
+
+table {
+        border-collapse: collapse;
+        border-bottom: 1px solid #dddd;
+        font-family: 'Quicksand', sans-serif;
+        padding: 20px;
+        width: 30%;
+}
+
+td, th {
+        border: 1px solid;
+        font-size: 15px;
+        text-align: left;
+
+
+}
+
+body {background-color: rgb(137, 167, 207)
+
+}
+@media screen and (max-width : 400px) {
+    #image{
+        width: 50%;
+    }
+}
+footer {
+        background-color: aliceblue;
+        padding: 5px;
+        text-align: center;
+}
+
+.wrap{
+    display: flex;
+    overflow: auto;
+}
